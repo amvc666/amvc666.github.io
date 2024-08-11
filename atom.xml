@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://amvc666.github.io</id>
     <title>艾梦云兮</title>
-    <updated>2024-07-28T07:14:58.046Z</updated>
+    <updated>2024-08-11T02:30:19.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://amvc666.github.io"/>
     <link rel="self" href="https://amvc666.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://amvc666.github.io/images/avatar.png</logo>
     <icon>https://amvc666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, 艾梦云兮</rights>
+    <entry>
+        <title type="html"><![CDATA[艾梦云兮七周年庆典抽奖活动(一)开奖公告]]></title>
+        <id>https://amvc666.github.io/post/Bo4zqc46w/</id>
+        <link href="https://amvc666.github.io/post/Bo4zqc46w/">
+        </link>
+        <updated>2024-08-11T02:21:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信息化办公室发布《网络安全事件报告书》]]></title>
+        <id>https://amvc666.github.io/post/Ibhrzqu70/</id>
+        <link href="https://amvc666.github.io/post/Ibhrzqu70/">
+        </link>
+        <updated>2024-08-11T01:49:40.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[艾梦云兮召开7月全员会议暨新战略发布会]]></title>
         <id>https://amvc666.github.io/post/SreL0_Z6l/</id>
