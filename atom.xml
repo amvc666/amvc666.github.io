@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://amvc666.github.io</id>
     <title>艾梦云兮</title>
-    <updated>2024-08-11T02:30:19.788Z</updated>
+    <updated>2024-08-17T03:46:25.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://amvc666.github.io"/>
     <link rel="self" href="https://amvc666.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://amvc666.github.io/images/avatar.png</logo>
     <icon>https://amvc666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, 艾梦云兮</rights>
+    <entry>
+        <title type="html"><![CDATA[理事处发布《公益倡议书》与有关规定]]></title>
+        <id>https://amvc666.github.io/post/HsWGkhwDE/</id>
+        <link href="https://amvc666.github.io/post/HsWGkhwDE/">
+        </link>
+        <updated>2024-08-17T03:29:04.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[艾梦云兮七周年庆典抽奖活动(一)开奖公告]]></title>
         <id>https://amvc666.github.io/post/Bo4zqc46w/</id>
@@ -46,25 +53,11 @@
         <updated>2024-07-23T06:24:33.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[穿越时空的历史光影：《人类群星闪耀时》]]></title>
-        <id>https://amvc666.github.io/post/Oa_RN3bED/</id>
-        <link href="https://amvc666.github.io/post/Oa_RN3bED/">
-        </link>
-        <updated>2024-07-23T06:12:54.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【置顶】艾梦云兮理事团队形象照展示]]></title>
         <id>https://amvc666.github.io/post/team/</id>
         <link href="https://amvc666.github.io/post/team/">
         </link>
         <updated>2024-07-23T04:22:46.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拼多多为什么能成功？]]></title>
-        <id>https://amvc666.github.io/post/pddwsmncg/</id>
-        <link href="https://amvc666.github.io/post/pddwsmncg/">
-        </link>
-        <updated>2024-07-15T06:30:23.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[艾梦云兮召开24年前半年汇报总结会议 李副理事长发表讲话]]></title>
